@@ -13,4 +13,3 @@ The navigation menu should have a fixed position and be visible on all pages.
 - CSS  
 - JavaScript  
 
-## 📂 Folder Structure
